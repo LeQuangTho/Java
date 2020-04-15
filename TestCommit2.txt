@@ -1,1 +1,2 @@
 Xuat hien file moi chua comit
+Git tu phat hien thay doi trong file
