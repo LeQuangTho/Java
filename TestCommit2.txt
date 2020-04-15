@@ -1,9 +1,2 @@
 Xuat hien file moi chua comit
 <<<<<<< HEAD
-Git tu phat hien thay doi trong file
-Them dong nay nua
-=======
-Git tu phat hien thay doi trong 
-Test  commit  04 no tu sync
->>>>>>> a82f499228059677ace202f8c368ca111998293c
-Bay gio thi co the commit duoc roi
